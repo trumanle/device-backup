@@ -1,0 +1,14 @@
+[
+    {
+        "ip": "192.168.1.1",
+        "username": "admin",
+        "password": "yourpassword",
+        "device_type": "cisco_ios"
+    },
+    {
+        "ip": "192.168.1.2",
+        "username": "admin",
+        "password": "yourpassword",
+        "device_type": "cisco_asa"
+    }
+]
